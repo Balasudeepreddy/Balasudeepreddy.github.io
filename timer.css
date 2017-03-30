@@ -1,0 +1,25 @@
+body{
+	background-image:url("timer.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 150%;
+	}
+p{	position:relative;
+	left:10px;
+	top:-100px;
+	font-size:150px; 
+	color:gold; }
+#timer{
+	position:relative;
+	top:-100px;
+	left:175px;
+	width:175px;
+	font-size:75px;
+	background:purple;
+	margin-top:-150px;
+	}
+#input{
+	position:relative;
+	top:-100px;
+	left:225px;
+	font-size:25px;
+	}

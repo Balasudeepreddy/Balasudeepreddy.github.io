@@ -3,7 +3,7 @@ function timer()
 {
 	if(a==0&&b==0&&c==0&&d==0)
 	{
-		window.alert("time is up");	
+		/*window.alert("time is up");*/	
 	}
 	else{
 		
